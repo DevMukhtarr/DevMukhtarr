@@ -1,6 +1,3 @@
-### Hi there 👋
-
-
 <h1 align="center">Hi 👋, I'm Mukhtar</h1>
 <h3 align="center">A Backend Developer who loves building APIs</h3>
 
