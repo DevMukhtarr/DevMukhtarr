@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mukhtar</h1>
 <h3 align="center">A Backend Developer who loves building APIs</h3>
 
-- 👨‍💻 All of my projects are available at [https://devmukhtarr.github.io/](https://devmukhtarr.github.io/)
-
-- 📝 I regularly write articles on [https://mukhtar.hashnode.dev/](https://mukhtar.hashnode.dev/)
+- 📝 I write articles on [https://mukhtar.hashnode.dev/](https://mukhtar.hashnode.dev/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
