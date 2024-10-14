@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mukhtar</h1>
-<h3 align="center">A Backend Developer who loves building APIs</h3>
+<h3 align="center">A Software Developer who loves creating magic</h3>
 
 - 📝 I write articles on [https://mukhtar.hashnode.dev/](https://mukhtar.hashnode.dev/)
 
